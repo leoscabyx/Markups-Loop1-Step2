@@ -11,5 +11,5 @@ Ver Ejemplo
 Descarga el Ejemplo
 
 ```
-https://github.com/leoscabyx/Markups-Loop1-Step2.git
+git clone https://github.com/leoscabyx/Markups-Loop1-Step2.git
 ```
